@@ -2,7 +2,9 @@
 
 <a href="https://github.com/Mariannapodbrscek/7daysofcode_day_4/blob/main/app.js">Visualiza mi repositorio</a>
 
+________________________________________________________
 
+#7daysofcode #dia4
 
 ¿Alguna vez has jugado a adivinar el número en el que tu amigo o amiga estaba pensando? Hoy volverás a tu infancia y harás exactamente eso. ¡Pero ahora, el juego será contra la propia computadora!
 
